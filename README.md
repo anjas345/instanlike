@@ -1,4 +1,4 @@
-# instalike
+# instanlike
 Bom Like Kronologi Fb Temen :v<br><br>
 use python2<br>
 need module:<br>
